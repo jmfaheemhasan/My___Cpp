@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() 
-
+//
 
 {
     float real1, imag1, real2, imag2, realSum, imagSum;
@@ -19,9 +19,10 @@ int main()
 
 
 
-    cout << "Sum = " << realSum << " + " << imagSum << "i" << endl;
+    cout << "sum = " << realSum << " + " << imagSum << "i" << endl;
 
     return 0;
+    
 }
 
 
