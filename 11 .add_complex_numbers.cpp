@@ -18,7 +18,7 @@ int main()
 
 
 
-    
+
     cout << "Sum = " << realSum << " + " << imagSum << "i" << endl;
 
     return 0;
